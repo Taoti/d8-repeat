@@ -1,0 +1,10 @@
+.site-logo {
+  display: block;
+  height: 100px;
+  width: 100px;
+
+  img {
+    @include fluid-image();
+    width: 100%;
+  }
+}
