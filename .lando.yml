@@ -1,5 +1,6 @@
-name: drupal8
 
-# config:
-#   site: pantheon site name
-#   id: pantheon site id
+name: d8-repeat
+config:
+  site: d8-repeat
+  id: 0a75bc83-7979-4057-aebf-178f22468396
+    
